@@ -28,6 +28,10 @@
 
 **Tools:** Burp Suite, Nmap, SQLMap, Subfinder, Httpx and others
 
+## 🏆 Certifications & Recognition
+
+📜 <a href="https://github.com/RanErrorcode404/Sertifikat">View My Certificates →</a>
+
 ## 💻 Languages & Tools
 Currently learning and developing skills in:  
 <p align="left">
