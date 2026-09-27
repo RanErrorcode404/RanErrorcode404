@@ -5,7 +5,7 @@
   <!-- Name with typing effect -->
 
   <h1 style="font-weight: bold; font-family: monospace; color: #00BFFF;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Rannn0x" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Rannn0x" alt="Typing SVG" />
   </h1>
 
   <!-- Short tagline -->
@@ -30,6 +30,8 @@
 **Tools:** Burp Suite, Nmap, SQLMap, Subfinder, Httpx and others
 
 ## 🏆 Certifications & Recognition
+
+A collection of my achievements, certificates, and recognition throughout my journey in cybersecurity and bug hunting.
 
 📜 <a href="https://github.com/RanErrorcode404/Sertifikat">View My Certificates →</a>
 
