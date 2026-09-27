@@ -31,7 +31,7 @@
 
 ## 🏆 Certifications & Recognition
 
-A collection of my certificates, Hall of Fame recognitions, and achievements throughout my journey in cybersecurity and bug hunting.
+A collection of **55+ certificates of appreciation, Hall of Fame recognitions, awards, and other achievements** throughout my journey in cybersecurity and bug hunting.
 
 📜 <a href="https://github.com/RanErrorcode404/Sertifikat">View My Certifications & Recognition →</a>
 
