@@ -27,7 +27,7 @@
 ## 🚀 Cyber Security
 
 <p>- Identifying and analyzing potential vulnerabilities in web systems</p>
-<p>- Understanding XSS, SQLi, CSRF, IDOR, RECON, and other types of web attacks</p>
+<p>- Understanding XSS, SQLi, CSRF, IDOR, BAC, and other types of web attacks</p>
 <p>- Researching and studying publicly disclosed data leaks</p>
 <p>- Deepening knowledge in bug hunting and penetration testing</p>
 
