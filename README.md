@@ -2,14 +2,10 @@
 
 <div align="center">
 
-  <!-- Avatar / GIF -->
-
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" height="350" alt="Developer Animation"/>
-
   <!-- Name with typing effect -->
 
   <h1 style="font-weight: bold; font-family: monospace; color: #00BFFF;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=RanErrorcode404" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Rannn0x" alt="Typing SVG" />
   </h1>
 
   <!-- Short tagline -->
